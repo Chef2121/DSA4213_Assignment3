@@ -1,0 +1,15 @@
+transformers>=4.30.0
+datasets>=2.14.0
+peft>=0.4.0
+accelerate>=0.21.0
+scikit-learn>=1.3.0
+torch>=2.0.0
+numpy>=1.24.0
+evaluate>=0.4.0
+sentencepiece
+protobuf
+tqdm
+ipywidgets>=8.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+hf_xet
