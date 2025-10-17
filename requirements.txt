@@ -13,3 +13,4 @@ ipywidgets>=8.0.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
 hf_xet
+psutil>=5.9.0
